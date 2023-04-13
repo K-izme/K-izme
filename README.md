@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/428557644777914368)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fb.com/kiet.ngotuan.124/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/NgTunKi00439010) 
 [![GitHub K-izme](https://img.shields.io/github/followers/K-izme?label=follow&style=social)](https://github.com/K-izme)
 
@@ -30,4 +31,5 @@ const kiet = {
 <em><b></b> Keep calm and stay positive</b> :)</em>
 
 ---
+
 
