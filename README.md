@@ -20,7 +20,7 @@
 const kiet = {
   pronouns: "he" | "him",
   code: [C#, C++, JS, Python],
-  tools: [VMWare, PuTTY, Microservices, K8S, Docker],
+  tools: [VMWare, PuTTY, K8S, Docker,...],
   challenge: "Gradute from UIT"
 }
 ```
@@ -28,7 +28,7 @@ const kiet = {
 ![D5VHIxn](https://user-images.githubusercontent.com/91515708/231833603-615464bf-0b84-48b4-a176-184a398faf3e.gif)
 
 
-<em><b></b> Keep calm and stay positive</b> :)</em>
+<em><b></b> Keep calm and stay positive</b> 😄</em>
 
 ---
 
