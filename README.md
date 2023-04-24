@@ -8,7 +8,7 @@
 [![GitHub K-izme](https://img.shields.io/github/followers/K-izme?label=follow&style=social)](https://github.com/K-izme)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=K-izme&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=K-izme&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=K-izme&icon=5&color=1)](https://visitcount.itsvg.in)
 
