@@ -21,7 +21,7 @@ const kiet = {
   pronouns: "he" | "him",
   code: [C#, C++, JS, Python],
   tools: [VMWare, PuTTY, K8S, Docker,...],
-  challenge: "Gradute from UIT"
+  challenge: "Graduate from UIT"
 }
 ```
 
