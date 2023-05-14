@@ -19,7 +19,7 @@
 ```javascript
 const kiet = {
   pronouns: "he" | "him",
-  code: [C#, C++, JS, Python],
+  code: [Python, C#, C++, JS,...],
   tools: [VMWare, PuTTY, K8S, Docker,...],
   challenge: "Graduate from UIT"
 }
