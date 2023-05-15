@@ -12,13 +12,6 @@ const kiet = {
 }
 ```
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/428557644777914368)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kiet.ngotuan.124/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NgTunKi00439010) 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=K-izme&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
----
 [![](https://visitcount.itsvg.in/api?id=K-izme&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
