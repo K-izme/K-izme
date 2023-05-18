@@ -7,7 +7,7 @@
 const kiet = {
   pronouns: "he" | "him",
   code: [Python, C#, C++, JS,...],
-  tools: [VMWare, PuTTY, K8S, Docker,...],
+  tools: [VMWare, PuTTY, AWS, Docker,...],
   challenge: "Graduate from UIT"
 }
 ```
