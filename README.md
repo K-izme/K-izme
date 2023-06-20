@@ -18,7 +18,7 @@ const kiet = {
 
 
 
-![D5VHIxn](https://user-images.githubusercontent.com/91515708/231833603-615464bf-0b84-48b4-a176-184a398faf3e.gif)
+<img src = "https://user-images.githubusercontent.com/91515708/231833603-615464bf-0b84-48b4-a176-184a398faf3e.gif" alt="gif" width ="330" height ="300">
 
 
 <em><b></b> Keep calm and stay positive</b> 😄</em>
