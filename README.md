@@ -6,8 +6,9 @@
 ```javascript
 const kiet = {
   pronouns: "he" | "him",
-  code: [Python, C#, C++, JS,...],
-  tools: [VMWare, PuTTY, AWS, Docker,...],
+  code: ["Python", "C#", "C++", "JS",...],
+  tools: ["Docker", "Jenkins", "Terraform", "PuTTY", ...],
+  cloud: "AWS",
   challenge: "Graduate from UIT"
 }
 ```
